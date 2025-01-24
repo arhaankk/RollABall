@@ -598,6 +598,7 @@ MonoBehaviour:
       m_Calls: []
   sphereRigidbody: {fileID: 655811574}
   ballSpeed: 2
+  jumpHigh: 5
 --- !u!1 &1124031949
 GameObject:
   m_ObjectHideFlags: 0
