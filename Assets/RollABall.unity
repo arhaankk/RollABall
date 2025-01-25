@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 23154356}
   m_Layer: 0
   m_Name: Floor
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -598,7 +598,8 @@ MonoBehaviour:
       m_Calls: []
   sphereRigidbody: {fileID: 655811574}
   ballSpeed: 2
-  jumpHigh: 5
+  jumpHigh: 6
+  isGrounded: 0
 --- !u!1 &1124031949
 GameObject:
   m_ObjectHideFlags: 0
